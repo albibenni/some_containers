@@ -5,5 +5,7 @@ RUN apt update && \
     man-db \
     info \
     file \
-    build-essential
+    build-essential \
+    vim \
+    git
 # have to run unminimize
