@@ -1,4 +1,4 @@
-!#/bin/bash
+#!/bin/bash
 
 echo "This script demonstrates filters and pipes"
 
