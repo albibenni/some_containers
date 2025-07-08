@@ -7,5 +7,6 @@ RUN apt update && \
     file \
     build-essential \
     vim \
+    bc \ # for float arithmetic
     git
 # have to run unminimize
